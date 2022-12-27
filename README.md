@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Gaurav</h1>
 <h3 align="center">A passionate MERN developer from India</h3>
-<img align="right" alt="coding" width="400" src="![image](https://user-images.githubusercontent.com/60878374/209645719-1452fdc7-bdb0-4518-afdf-fdb3073d1028.png)"/>
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/60878374/209645719-1452fdc7-bdb0-4518-afdf-fdb3073d1028.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravsahu21&label=Profile%20views&color=0e75b6&style=flat" alt="gauravsahu21" /> </p>
 
